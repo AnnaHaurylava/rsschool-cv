@@ -1,1 +1,1 @@
-https://github.com/AnnaHaurylava/rsschool-cv/tree/gh-pages
+https://github.com/AnnaHaurylava/rsschool-cv
