@@ -17,3 +17,19 @@ ul{
 ul li{
    text-align: left;
 }
+
+nav {
+   width: 960px;
+   margin: 0 auto;
+}
+nav ul {
+   display: table;
+}
+nav li {
+   float:left;
+   list-style-type: none;
+}
+
+.github{
+   font-size: 30px;
+}
