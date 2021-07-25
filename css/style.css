@@ -1,0 +1,19 @@
+html{
+   text-align: center;
+   background-color: #e5f6ff;
+}
+
+.avatar{
+   height: 240px;
+   width: 240px;
+   border-radius: 400px;
+}
+
+ul{
+   display: table;
+   margin: auto;
+}
+
+ul li{
+   text-align: left;
+}
